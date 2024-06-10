@@ -18,3 +18,13 @@ html {
     max-width: 1000px;
     margin: 0 auto;
 }
+
+/*
+    HEADER
+*/
+.container-header {
+    background-color: #ADD8E6;
+    margin: 0 auto;
+    height: 50px;
+    display: flex;
+}
