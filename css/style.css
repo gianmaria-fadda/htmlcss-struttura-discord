@@ -132,7 +132,7 @@ nav {
 }
 
 .container-dark {
-    background-color: black;
+    background-color: #23272A;
     margin: 1px auto;
     padding: 10px;
     display: flex;
@@ -162,7 +162,25 @@ nav {
     height: 50px;
     display: flex;
     background-color: #7FFFD3;
-    justify-content: flex-end;
+    justify-content: space-between;
+}
+
+.logo2-container {
+    height: 30px;
+    width: 7%;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    background-color: #FFB6C1;
+}
+
+.bottone-container {
+    height: 30px;
+    width: 10%;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    background-color: #FFB6C1;
 }
 
 
